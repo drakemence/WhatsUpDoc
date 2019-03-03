@@ -1,0 +1,949 @@
+,Place,lat,long
+0,"Kakkanad, Ernakulam",10.01657,76.34275
+1,"Whitefield, Bangalore",12.9696365,77.7497448
+2,"Mathikere - BEL, Bangalore",0.0,0.0
+3,"Bannerghatta Road, Bangalore",12.9205798,77.6001864
+4,"Keelkattalai, Chennai",0.0,0.0
+5,"Porur, Chennai",13.0320131,80.158304
+6,"Karol Bagh, Delhi",28.6529982,77.1890227
+7,"Arekere, Bangalore",12.87847015,77.6041791138253
+8,"Old City, Hyderabad",17.3616079,78.4746286
+9,"Athani, Ernakulam",10.1523857,76.3552674
+10,"Thousand Lights, Chennai",13.0587829,80.2557114
+11,"Somajiguda, Hyderabad",17.4255053,78.4585197
+12,"Coimbatore Racecourse, Coimbatore",0.0,0.0
+13,"Jubilee Hills, Hyderabad",17.4308362,78.4102882
+14,"Kondli, Delhi",28.6070816,77.3243319363118
+15,"Saroor Nagar, Hyderabad",17.3564017,78.5318948
+16,"Tambaram West, Chennai",12.9299028,80.1118231
+17,"Purasawakkam, Chennai",0.0,0.0
+18,"KPHB, Hyderabad",17.4940793,78.4008221
+19,"HSR Layout, Bangalore",12.9116225,77.6388622
+20,"Pollachi, Coimbatore",10.6588234,77.00873
+21,"Vasundhra Enclave, Delhi",0.0,0.0
+22,"Chembur, Mumbai",19.0612128,72.8975909
+23,"Thammanam, Ernakulam",9.9832859,76.2933452
+24,"Andheri, Mumbai",19.1203713,72.8480431
+25,"Pattom, Thiruvananthapuram",8.5186757,76.9421447
+26,"Kukatpally, Hyderabad",17.4930841,78.4054408
+27,"Vadavalli, Coimbatore",11.0253387,76.9051251
+28,"Defence Colony, Delhi",28.5717909,77.2320102
+29,"Banjara Hills, Hyderabad",17.4177464,78.4399014
+30,"Sion West, Mumbai",19.0476819,72.8595651
+31,"CR Park, Delhi",28.6517178,77.2219388
+32,"Mogappair East, Chennai",13.0835142,80.1840779
+33,"IP Extension, Delhi",28.6288991,77.3101995819454
+34,"Safdarjung Enclave, Delhi",28.5656419,77.1934382
+35,"New Friends Colony, Delhi",28.5671008,77.2697643
+36,"Borivali West, Mumbai",19.2294561,72.8479905
+37,"Saket, Delhi",28.5244107,77.2137253
+38,"Malad, Mumbai",19.1846771,72.8358068
+39,"Hyder Nagar, Hyderabad",0.0,0.0
+40,"Dahisar West, Mumbai",19.2483914,72.8525146
+41,"RT Nagar, Bangalore",13.0227204,77.595715
+42,"Powai, Mumbai",19.1187195,72.9073476
+43,"Basheerbagh, Hyderabad",17.4050023,78.4769104
+44,"Musheerabad, Hyderabad",17.4146753,78.5068215
+45,"AS Rao Nagar, Hyderabad",17.4798689,78.5509653
+46,"Madhapur, Hyderabad",17.4408578,78.3916289
+47,"Gandhinagar, Hyderabad",17.3616079,78.4746286
+48,"Chetpet, Chennai",13.0717448,80.2437973
+49,"Vileparle East, Mumbai",0.0,0.0
+50,"Yelahanka New Town, Bangalore",13.0978039,77.5811889
+51,"Kodambakkam, Chennai",13.049207,80.2242829
+52,"Malleswaram, Bangalore",13.0163411,77.5586641823841
+53,"Pallikaranai, Chennai",12.9304748,80.2077692
+54,"Nallakunta, Hyderabad",17.3975005,78.50557
+55,"Paschim Vihar, Delhi",28.6695782,77.095956
+56,"Meera Bagh, Delhi",28.658844,77.0908475060524
+57,"Chattarpur, Delhi",28.4971399,77.1812506
+58,"Andheri West, Mumbai",19.1172495,72.833968
+59,"Himayat Nagar, Hyderabad",17.4039678,78.483456
+60,"Adambakkam, Chennai",12.9822215,80.209121
+61,"Punjabi Bagh, Delhi",28.668945,77.1324614
+62,"Mahalaxmi, Mumbai",18.9825159,72.8243136
+63,"Kalina, Mumbai",19.079273,72.8612672
+64,"Attapur, Hyderabad",17.3672244,78.4307278
+65,"Lakdikapul, Hyderabad",17.4038328,78.4635019
+66,"Ambattur, Chennai",13.1193746,80.1507648
+67,"Ramnagar, Coimbatore",0.0,0.0
+68,"Shalimar Bagh, Delhi",28.71745265,77.1508665461741
+69,"Nungambakkam, Chennai",13.0620626,80.240487
+70,"Miyapur, Hyderabad",17.4981608,78.3567628
+71,"Sagarpur, Delhi",28.6091456,77.0995916
+72,"Girgaon, Mumbai",18.9543165,72.8179082
+73,"Jayanagar, Bangalore",12.9292731,77.5824229
+74,"Palayam, Thiruvananthapuram",8.503034,76.9505646
+75,"Munirka, Delhi",28.554886,77.1710841
+76,"Tuglakabad, Delhi",28.5089676,77.2652186
+77,"Moosarambagh, Hyderabad",17.3743532,78.5160835
+78,"Anna Nagar East, Chennai",13.0852124,80.2258887
+79,"Bandra West, Mumbai",19.0583358,72.8302669
+80,"Kanakpura Road, Bangalore",12.88576665,77.5527529018764
+81,"Green Park, Delhi",28.5580022,77.2068211
+82,"Maduravoyal, Chennai",13.0601732,80.1665988
+83,"Dahisar East, Mumbai",19.2486925,72.8640593
+84,"Moosapet, Hyderabad",17.4685307,78.4206695
+85,"Koramangala, Bangalore",13.2923988,77.7519261
+86,"TV Medical College, Thiruvananthapuram",0.0,0.0
+87,"Kadavanthra, Ernakulam",9.9597578,76.3017972988716
+88,"Greams Road, Chennai",13.0610354,80.2544849
+89,"Bommanahalli, Bangalore",13.3457317,77.4333346
+90,"T Nagar, Chennai",13.0294483,80.2309064
+91,"Yelahanka, Bangalore",13.1006982,77.5963454
+92,"Hazrat Nizamuddin, Delhi",28.5887494,77.2572494
+93,"Old Rajendra Nagar, Delhi",28.6517178,77.2219388
+94,"Dadar West, Mumbai",19.0238887,72.8382236
+95,"Indiranagar, Bangalore",12.9732913,77.6404672
+96,"Perumbakkam, Chennai",12.9050095,80.1968629
+97,"Shaikpet, Hyderabad",17.4057955,78.4006536
+98,"Vyttila, Ernakulam",9.9625214,76.314712
+99,"Khar West, Mumbai",19.0724575,72.8337068
+100,"Goregaon West, Mumbai",19.1633281,72.8411995
+101,"Bakkarwala, Delhi",28.6670651,77.0191817
+102,"Nesapakkam, Chennai",13.0336193,80.1873092
+103,"BTM Layout 2nd Stage, Bangalore",12.9140082,77.607945
+104,"Ashok Nagar, Chennai",13.0400731,80.2159247
+105,"Chandivali, Mumbai",19.1091482,72.8945793
+106,"Uttam Nagar, Delhi",28.6248301,77.0652972
+107,"Gujranwala Town, Delhi",0.0,0.0
+108,"Greater Kailash Part 1, Delhi",0.0,0.0
+109,"Panchsheel Park, Delhi",28.5433525,77.2140757
+110,"Thoraipakkam, Chennai",12.9300691,80.2300221
+111,"South Extension 2, Delhi",28.5668357,77.2200829
+112,"Kandivali East, Mumbai",19.2102005,72.8648909
+113,"Pitampura, Delhi",28.6995123,77.1301047
+114,"Banashankari 3rd Stage, Bangalore",12.932708,77.5462535
+115,"Kolenchery, Ernakulam",9.9796018,76.4730988
+116,"Kumaraswamy Layout, Bangalore",12.9068169,77.5635247362134
+117,"Vadapalani, Chennai",13.0509293,80.212045
+118,"Manikonda, Hyderabad",17.4037073,78.3766148
+119,"Gandhipuram, Coimbatore",11.0182714,76.9677744
+120,"Yeshwanthpur, Bangalore",13.0214,77.5518295
+121,"Ayanavaram, Chennai",13.0946157,80.23541
+122,"Basaveshwaranagar, Bangalore",12.986475,77.5385709
+123,"Malad West, Mumbai",19.1840129,72.8412155
+124,"Vikas Puri, Delhi",28.6301441,77.0682683
+125,"Kondapur, Hyderabad",17.4587912,78.3730556
+126,"Andheri East, Mumbai",19.1158835,72.854202
+127,"Sulur, Coimbatore",11.0268912,77.1258565
+128,"Adyar, Chennai",13.00645,80.2577791
+129,"Krishna Nagar, Delhi",28.5637017,77.1934097649498
+130,"Langer House, Hyderabad",0.0,0.0
+131,"Thiruvanmiyur, Chennai",12.9858948,80.2644215
+132,"Dwarka, Delhi",28.6149318,77.0227861
+133,"Bhandup West, Mumbai",19.1462636,72.9339461
+134,"Janak Puri, Delhi",0.0,0.0
+135,"Rajajinagar, Bangalore",12.9882338,77.554883
+136,"South Extension 1, Delhi",28.5705664,77.2203844
+137,"Kemps Corner, Mumbai",18.9637535,72.8068617
+138,"Peelamedu, Coimbatore",11.0269577,76.9945813
+139,"Kandivali West, Mumbai",19.2083801,72.842227
+140,"Thevara, Ernakulam",9.9795081,76.2915816
+141,"Wilson Garden, Bangalore",12.9489339,77.5968273
+142,"Wadala, Mumbai",19.0269192,72.8759337
+143,"Pahar Ganj, Delhi",28.6398522,77.2130306
+144,"Chanchalguda, Hyderabad",17.3673732,78.4965799
+145,"Chikkadpally, Hyderabad",17.400939,78.4976319
+146,"Pasur-avanashi, Coimbatore",0.0,0.0
+147,"Nagarbhavi, Bangalore",12.9651008,77.5078635
+148,"Lajpat Nagar, Delhi",28.5706151,77.2361692
+149,"Mayur Vihar Ph-I, Delhi",0.0,0.0
+150,"Dilshad Garden, Delhi",28.6806819,77.3220645
+151,"Vijayanagar, Bangalore",12.9718886,77.5457888388713
+152,"Alwarpet, Chennai",13.0338602,80.2545491
+153,"Pappanamcode, Thiruvananthapuram",8.4702287,76.9809946
+154,"Aluva, Ernakulam",10.1078869,76.3525732
+155,"Nariman Point, Mumbai",18.9259514,72.8232083
+156,"Kilkattalai, Chennai",0.0,0.0
+157,"Dilsukhnagar, Hyderabad",17.3684433,78.5228597
+158,"Kurla West, Mumbai",19.0686026,72.876583
+159,"Begumpet, Hyderabad",17.1117741,78.55407
+160,"Kaloor, Ernakulam",9.9846385,76.7091779
+161,"Hitech City, Hyderabad",17.4696885,78.3851526
+162,"Goregaon East, Mumbai",19.1692623,72.8552548
+163,"Velandipalayam, Coimbatore",0.0,0.0
+164,"Ghatkopar East, Mumbai",19.0834898,72.9120255
+165,"Mulund West, Mumbai",19.1719717,72.9511956
+166,"Yousufguda, Hyderabad",17.4387499,78.4279866
+167,"Ghatkopar West, Mumbai",19.0897194,72.9045972
+168,"TVM Beach, Thiruvananthapuram",0.0,0.0
+169,"Vanagaram, Chennai",13.0773049,80.1555408
+170,"Worli, Mumbai",19.0116962,72.8180702
+171,"Koramangala 1 Block, Bangalore",12.9274264,77.6310878067389
+172,"Saki Vihar Road, Mumbai",19.1285901,72.8958916
+173,"Versova, Mumbai",19.1309837,72.8187345
+174,"CV Raman Nagar, Bangalore",0.0,0.0
+175,"Secunderabad, Hyderabad",17.4690889,78.5059176
+176,"BTM Layout 1st Stage, Bangalore",12.9190004,77.6112906
+177,"Ramkoti, Hyderabad",0.0,0.0
+178,"MRC Nagar, Chennai",13.0196693,80.2706525
+179,"Malkajgiri, Hyderabad",17.4511764,78.5368997
+180,"Gachibowli, Hyderabad",17.4436222,78.3519638
+181,"Mogappair West, Chennai",13.08253515,80.1709174665887
+182,"Mayur Vihar Ph-III, Delhi",0.0,0.0
+183,"Kurla East, Mumbai",19.0628944,72.8825604
+184,"Ashok Vihar, Delhi",28.6994533,77.1848256
+185,"Mahim, Mumbai",19.0423145,72.8398344
+186,"Villivakkam, Chennai",13.1125875,80.2081378
+187,"Srinagar Colony, Hyderabad",17.509929,78.5036579
+188,"Chromepet, Chennai",12.9496841,80.135642
+189,"Pammal, Chennai",12.9737938,80.1408
+190,"Banashankari, Bangalore",12.91538175,77.5736376995009
+191,"Velachery, Chennai",12.98016545,80.2228505622558
+192,"Chanakyapuri, Delhi",28.5946775,77.1885212
+193,"Kalyan Nagar, Bangalore",13.0221416,77.6403368
+194,"Oshiwara, Mumbai",19.1502437,72.8342294
+195,"Karapakkam, Chennai",12.9117073,80.2277203
+196,"Borivali, Mumbai",19.2287385,72.8568773
+197,"Mylapore, Chennai",13.0316504,80.270099
+198,"Electronics City, Bangalore",12.8468545,77.6769267
+199,"Perungudi, Chennai",12.9710239,80.2418051
+200,"Basavanagudi, Bangalore",12.9417261,77.5755021
+201,"MG Road, Bangalore",12.9741854,77.6124135
+202,"Thiruvottiyur, Chennai",13.1722221,80.3045854326791
+203,"Greater Kailash Part 2, Delhi",0.0,0.0
+204,"Bilekahalli, Bangalore",12.8995934,77.610317336124
+205,"Nanganallur, Chennai",12.9801242,80.184902
+206,"Rohini, Delhi",28.7162092,77.1170743
+207,"Thrikkakara, Ernakulam",0.0,0.0
+208,"Manapakkam, Chennai",13.0147531,80.1744935
+209,"Bellandur, Bangalore",12.9791198,77.5912997
+210,"Ameerpet, Hyderabad",17.4375012,78.4482505
+211,"Thiruvallom, Thiruvananthapuram",8.4620423,76.9728103
+212,"R.S. Puram, Coimbatore",11.0071376,76.9489287
+213,"Kumarapuram, Thiruvananthapuram",0.0,0.0
+214,"Palam Colony, Delhi",28.5812691,77.0957546
+215,"Manali, Chennai",13.1672275,80.2598107
+216,"Valasaravakkam, Chennai",13.0410164,80.1721682
+217,"Barkatpura, Hyderabad",17.3926121,78.4969683
+218,"Singanallur, Coimbatore",11.0028585,77.0234948
+219,"Mulund, Mumbai",19.1722904,72.9564695
+220,"Dadar East, Mumbai",19.0238229,72.8394269
+221,"Borabanda, Hyderabad",17.45167,78.415421
+222,"Model Town 3, Delhi",28.7027391,77.1940059
+223,"Ulsoor, Bangalore",12.9778793,77.6246697
+224,"Bhayandar West, Mumbai",19.1971521,72.8113662
+225,"Hari Nagar, Delhi",28.6296489,77.1119344
+226,"Horamavu, Bangalore",13.0273312,77.6601508
+227,"Santacruz East, Mumbai",19.0815223,72.8417565
+228,"OMR Road, Chennai",12.9564001,80.2436026
+229,"Kammana Halli, Bangalore",13.0177719,77.6364403
+230,"Tilak Nagar, Delhi",28.63964975,77.0940394634643
+231,"Panathur, Bangalore",12.9351457,77.7047541
+232,"Rajarajeshwarinagar, Bangalore",0.0,0.0
+233,"Paravur, Ernakulam",10.1488387,76.2320334
+234,"Preet Vihar, Delhi",28.6377532,77.2951746
+235,"Chembur East, Mumbai",19.0460658,72.8954733
+236,"Jakkur, Bangalore",13.0784743,77.6068938
+237,"Vanasthalipuram, Hyderabad",17.3303179,78.568278
+238,"Mandaveli, Chennai",13.0258445,80.2627877
+239,"Kumara Park West, Bangalore",12.986668,77.5787881
+240,"Domlur, Bangalore",12.9624669,77.6381958
+241,"Jeevanbhimanagar, Bangalore",0.0,0.0
+242,"Santacruz West, Mumbai",19.084877,72.8349727
+243,"Shankar Vihar, Delhi",28.55743865,77.1396654899956
+244,"Jogeshwari East, Mumbai",19.1369889,72.8649418
+245,"Kasavanahalli, Bangalore",13.2414761,77.5675665
+246,"Ambalamukku, Thiruvananthapuram",8.5314989,76.9616906
+247,"Jhilmil Colony, Delhi",28.6698142,77.3072827
+248,"Dwarka Sector 7, Delhi",28.602684,77.0432335
+249,"Tatabad, Coimbatore",11.0194943,76.9572601
+250,"Marine Lines, Mumbai",18.9456157,72.8238162
+251,"Tolichowki, Hyderabad",17.4002904,78.4118051
+252,"Sundarapuram, Coimbatore",0.0,0.0
+253,"Kothanur, Bangalore",13.0613601,77.6493895
+254,"Chinmaya Nagar, Chennai",13.0622141,80.1991841
+255,"Vasant Vihar, Delhi",28.56069055,77.1607907316857
+256,"Mehdipatnam, Hyderabad",17.3942627,78.4342514
+257,"Kadugodi, Bangalore",12.9985767,77.7609716
+258,"Ganapathy, Coimbatore",11.0365596,76.9692573
+259,"SR Nagar, Hyderabad",17.4452312,78.4449117
+260,"Perambur, Chennai",13.1121242,80.245022
+261,"Opera House, Mumbai",18.9563449,72.8155053482702
+262,"Selvapuram, Coimbatore",11.172385,76.9213345
+263,"Karkardooma, Delhi",28.64931075,77.2962918164588
+264,"Alwarthirunagar, Chennai",13.047486,80.1836687
+265,"KR Puram, Bangalore",13.007516,77.695935
+266,"Ramesh Nagar, Delhi",28.652725,77.1316569
+267,"Malakpet, Hyderabad",17.3736706,78.4996484
+268,"Tondiarpet, Chennai",13.1277669,80.2895845
+269,"Vikrampuri Colony, Hyderabad",17.4555597,78.4992979
+270,"Besant Nagar, Chennai",12.9996907,80.2682259
+271,"Vasant Kunj, Delhi",28.5292495,77.1541335
+272,"Banaswadi, Bangalore",13.0141618,77.6518539
+273,"BTM Layout, Bangalore",12.9151772,77.6102821
+274,"Medavakkam, Chennai",12.9229928,80.1882897
+275,"Vileparle West, Mumbai",0.0,0.0
+276,"Sahakaranagar, Bangalore",13.0683625,77.584243
+277,"LB Nagar, Hyderabad",17.3501617,78.5510938
+278,"Punjagutta, Hyderabad",17.4254934,78.448774
+279,"Yamuna Vihar, Delhi",28.700372,77.2727728
+280,"Marathahalli, Bangalore",12.9552572,77.6984163
+281,"JP Nagar 2 Phase, Bangalore",12.9072515,77.5782713
+282,"Rani Bagh, Delhi",28.6859821,77.1325244699161
+283,"Jayamahal, Bangalore",12.9988116,77.5975789
+284,"Nagpada, Mumbai",18.9681782,72.8286009
+285,"Kundalahalli, Bangalore",12.9684441,77.7187843
+286,"Kailash Colony, Delhi",28.5530522,77.2429694
+287,"Pandav Nagar, Delhi",28.6501272,77.1532783
+288,"Karkhana, Hyderabad",17.4732138,78.5115017
+289,"West Mambalam, Chennai",13.0427322,80.2270781
+290,"Aminjikarai, Chennai",13.0721399,80.2205453
+291,"Madipakkam, Chennai",12.9611348,80.2001292
+292,"Charkop, Mumbai",19.2141193,72.8258652
+293,"Adarsh Nagar, Delhi",28.6141925,77.0715411848447
+294,"Dadar, Mumbai",19.0238229,72.8394269
+295,"Kaggadasapura, Bangalore",12.9846713,77.6790908
+296,"Matunga, Mumbai",19.0274356,72.8501467
+297,"Sun city, Hyderabad",17.3638597,78.3975233
+298,"Mahadevapura, Bangalore",13.0671165,77.3201264
+299,"Kalady, Ernakulam",10.1663271,76.4389818
+300,"Anna Nagar West, Chennai",13.0940791,80.1922978
+301,"Mayur Vihar Ph-II, Delhi",0.0,0.0
+302,"Tis Hazari, Delhi",28.6671318,77.2166245
+303,"Vennala, Ernakulam",10.00582,76.31872
+304,"Mira Road, Mumbai",18.9159239,72.8197358
+305,"Alwal, Hyderabad",17.5022292,78.5088584
+306,"Trimulgherry, Hyderabad",17.4746717,78.5069513
+307,"Raja Annamalai Puram, Chennai",13.0244783,80.253937
+308,"JP Nagar 7 Phase, Bangalore",12.9072515,77.5782713
+309,"Old Bowenpally, Hyderabad",17.4719293,78.4924365
+310,"Santosh Nagar, Hyderabad",17.3477116,78.5043699
+311,"Hope College, Coimbatore",11.0263851,77.0208783
+312,"Mulund East, Mumbai",19.1704719,72.9610447
+313,"Mount Road, Chennai",13.0218028,80.2261912
+314,"Patel Nagar West, Delhi",28.6598088,77.156957
+315,"Jayanagar 4 Block, Bangalore",12.9292731,77.5824229
+316,"West Marredpally, Hyderabad",17.45121,78.5020964
+317,"Jagriti Enclave, Delhi",28.6509986,77.3108573495685
+318,"Sarita Vihar, Delhi",28.5334785,77.2935232
+319,"Rajendra Nagar, Hyderabad",17.3200305,78.4020096
+320,"Thudiyalur, Coimbatore",11.0805532,76.9421498
+321,"Bhayandar East, Mumbai",19.1971521,72.8113662
+322,"Narayanguda, Hyderabad",17.3981159,78.4885006
+323,"Kothapet, Hyderabad",17.3744799,78.5454615
+324,"KK Nagar, Chennai",13.0386493,80.2052158
+325,"Tripunithura, Ernakulam",9.9502161,76.3521655
+326,"Model Town, Delhi",28.7027391,77.1940059
+327,"Suchitra Circle, Hyderabad",17.50088035,78.4767821579867
+328,"Pusa Road, Delhi",28.6434877,77.185864
+329,"Vijaynagar Colony, Hyderabad",17.3442548,78.5412895
+330,"Alandur, Chennai",12.9943729,80.1942837
+331,"Cuffe Parade, Mumbai",18.9136406,72.8209295
+332,"Kalkaji, Delhi",28.5370703,77.2618051
+333,"Saibaba Colony, Coimbatore",11.024334,76.9447875
+334,"Kattakada, Thiruvananthapuram",8.5064901,77.0822236
+335,"Jogeshwari West, Mumbai",19.136394,72.8373817
+336,"Erragadda, Hyderabad",17.4487999,78.4356074
+337,"Tilak Nagar, Hyderabad",17.3926401,78.5083876
+338,"Edapally, Ernakulam",10.0250304,76.3073744
+339,"Patparganj, Delhi",28.6115923,77.2905644
+340,"Sainikpuri, Hyderabad",17.4892154,78.5424889
+341,"Nanjundapuram, Coimbatore",10.9781446,76.9978252
+342,"Nizampet, Hyderabad",17.515397,78.3817156
+343,"Kolathur, Chennai",13.1241127,80.2046276
+344,"Chamarajpet, Bangalore",0.0,0.0
+345,"Kala Ghoda, Mumbai",18.9279117,72.8316248
+346,"Padmarao Nagar, Hyderabad",17.4256007,78.5085153349731
+347,"Uppal, Hyderabad",17.4025091,78.5612562
+348,"Guduvanchery, Chennai",0.0,0.0
+349,"Satya Niketan, Delhi",28.5878919,77.1690202
+350,"Chanda Nagar, Hyderabad",17.373791,78.2612479
+351,"Sowripalayam, Coimbatore",11.0097377,77.0073151
+352,"Vikhroli West, Mumbai",19.114541,72.9257184
+353,"Rajouri Garden, Delhi",28.6490372,77.122743
+354,"Alaknanda, Delhi",28.5293364,77.2516323
+355,"Millers Road, Bangalore",12.9934802,77.5956667
+356,"Kandanchavadi, Chennai",12.9632927,80.2466598
+357,"Vigyan Vihar, Delhi",28.66052075,77.3126234654143
+358,"Bandra East, Mumbai",19.0616565,72.8498111
+359,"Vilankurichi, Coimbatore",11.0576603,77.0046147
+360,"Malad East, Mumbai",19.1860219,72.8563181
+361,"Prabhadevi, Mumbai",19.0148811,72.8279556
+362,"Ulloor, Thiruvananthapuram",8.5300054,76.928621
+363,"Rajakilpakkam, Chennai",12.9145851,80.1579056
+364,"Greater Kailash, Delhi",28.5415725,77.2373404
+365,"Madinaguda, Hyderabad",17.4917948,78.342306
+366,"Borivali East, Mumbai",19.2267228,72.8619328
+367,"Juhu, Mumbai",19.1070215,72.8275275
+368,"Mugalivakkam, Chennai",13.0205798,80.1685163
+369,"Hebbal, Bangalore",13.0382184,77.5919
+370,"Kirti Nagar, Delhi",28.6532807,77.1417729
+371,"Balaramapuram, Thiruvananthapuram",8.4244198,77.0460312
+372,"Bhandup East, Mumbai",19.1485568,72.9470657
+373,"VV Puram, Bangalore",12.9531831,77.5761103
+374,"Kilpauk, Chennai",13.0832149,80.2379864
+375,"Jacob Circle, Mumbai",18.9810298,72.8267863190855
+376,"Singasandra, Bangalore",12.6850414,77.6975628
+377,"Khairatabad, Hyderabad",17.4117706,78.4622003
+378,"Coimbatore Aerodrome, Coimbatore",11.0312326,77.0416982945065
+379,"J.C Nagar, Bangalore",15.3497233,75.1375207
+380,"Naraina Vihar, Delhi",28.6273375,77.1403175
+381,"Virugambakkam, Chennai",13.0475434,80.1922181
+382,"RK Puram, Delhi",28.5514261,77.1847012
+383,"Banashankari 1st Stage, Bangalore",12.9401275,77.5508062
+384,"Lajpat Nagar 4, Delhi",28.5792615,77.2440325
+385,"Jayanagar 5 Block, Bangalore",12.92956485,77.5801425
+386,"Kalyanpuri, Hyderabad",17.4108383,78.5564624
+387,"Tambaram, Chennai",12.9299028,80.1118231
+388,"Laxmi Nagar, Delhi",28.6310588,77.2785616
+389,"Anand Vihar, Delhi",28.65399235,77.3126653890268
+390,"Charni Road, Mumbai",18.959867,72.8195311
+391,"Patel Nagar East, Delhi",28.6450353,77.169302
+392,"Jayanagar 9 Block, Bangalore",12.92956485,77.5801425
+393,"Ecil, Hyderabad",17.4957516,78.5330533
+394,"Ramamurthy Nagar, Bangalore",13.0120218,77.6777817
+395,"Raj Nagar - 2, Delhi",28.5817533,77.0872962
+396,"Chunabhatti, Mumbai",19.0517703,72.8690974
+397,"Vikhroli East, Mumbai",19.1172592,72.9355194
+398,"Shakarpur, Delhi",28.62948875,77.2810607296737
+399,"Shahdara, Delhi",28.6794764,77.30229019046
+400,"Govandi, Mumbai",19.0553688,72.9150702
+401,"Mira Bhayandar, Mumbai",0.0,0.0
+402,"Doddanekundi, Bangalore",12.9713194,77.6964768
+403,"Madhu Vihar, Delhi",28.60317645,77.0630603496243
+404,"Guindy, Chennai",13.0087095,80.2203646
+405,"Palarivattom, Ernakulam",10.0025274,76.306206
+406,"Charminar, Hyderabad",17.3616024,78.4746421377397
+407,"Old Airport Road, Bangalore",12.9593577,77.6614182
+408,"Sarjapur Road, Bangalore",12.9244842,77.6502725
+409,"Okhla, Delhi",28.5636616,77.2890546
+410,"Baghlingampally, Hyderabad",17.4020587,78.4985239
+411,"Trombay, Mumbai",19.037,72.9464
+412,"HRBR Layout, Bangalore",13.0251863,77.6340078
+413,"Fort, Mumbai",18.9332665,72.8345146
+414,"Shastri Nagar, Delhi",28.67483055,77.1803369874045
+415,"Red Hills, Chennai",13.175295,80.2031341
+416,"New BEL Road, Bangalore",13.0288251,77.5711478
+417,"Park Town, Chennai",13.0863424,80.2727567
+418,"Frazer Town, Bangalore",12.996845,77.6130165
+419,"Falaknuma, Hyderabad",17.333653,78.4677481
+420,"Rohini Sector 7, Delhi",28.7162092,77.1170743
+421,"East Of Kailash, Delhi",28.5570322,77.2446139206853
+422,"Chintadripet, Chennai",13.0761258,80.270781
+423,"Tagore Garden, Delhi",28.6473773,77.1122901
+424,"Tri Nagar, Delhi",28.6482443,77.2154123
+425,"Muttada, Thiruvananthapuram",8.5345144,76.9497866
+426,"Munnekollal, Bangalore",0.0,0.0
+427,"TV Museum, Thiruvananthapuram",0.0,0.0
+428,"Shivalik, Delhi",28.5353753,77.2081104
+429,"Neb Sarai, Delhi",28.5055007,77.2014964
+430,"Mahalakshmi Layout, Bangalore",13.0119095,77.5438333
+431,"Mankhurd, Mumbai",19.0485178,72.9323356
+432,"Kamla Nagar, Delhi",28.68034425,77.2021292003305
+433,"Saravanampatti, Coimbatore",11.0747296,77.0027116
+434,"Selaiyur, Chennai",12.9297073,80.1186637
+435,"Saligramam, Chennai",13.0583406,80.1985327
+436,"Thirumullaivoyal, Chennai",0.0,0.0
+437,"Teynampet, Chennai",13.0443237,80.2498455
+438,"Kochi, Ernakulam",9.9633864,76.2536614
+439,"Vidyaranyapura, Bangalore",13.0766407,77.5577315
+440,"Mogappair, Chennai",13.0835142,80.1840779
+441,"Mazgaon, Mumbai",18.9680519,72.8400118703627
+442,"Shivaji Nagar, Bangalore",16.6779243,74.2515821262246
+443,"Jangpura, Delhi",28.58245705,77.2415000727384
+444,"Kaudiar Square, Thiruvananthapuram",0.0,0.0
+445,"Arumbakkam, Chennai",13.074371,80.2081312
+446,"Cherai, Ernakulam",10.1432552,76.1888117
+447,"Mira-Bhayandar Road, Mumbai",0.0,0.0
+448,"Ram Nagar, Delhi",28.6791624,77.2968039825244
+449,"Parel, Mumbai",19.0094817,72.8376614
+450,"Thanisandra, Bangalore",13.054713,77.6339258
+451,"Pragathi Nagar, Hyderabad",17.334656,78.6077549
+452,"Karamana, Thiruvananthapuram",8.4817066,76.9663027
+453,"AECS Layout, Bangalore",13.0285021,77.5778953
+454,"Nizamuddin East, Delhi",28.5896671,77.2503854
+455,"Ramanathapuram, Coimbatore",10.9947773,76.99213
+456,"Anna Nagar, Chennai",13.0872004,80.2164421
+457,"Shenoy Nagar, Chennai",13.0786669,80.2272547
+458,"Siddhapudur, Coimbatore",11.0208062,76.9765127
+459,"Keshav Puram, Delhi",28.6889144,77.1616516
+460,"Edakochi, Ernakulam",9.9128533,76.2828619
+461,"Nagawara, Bangalore",13.0338313,77.6225083
+462,"Chintal, Hyderabad",17.50217555,78.4406083140158
+463,"Malviya Nagar, Delhi",28.5339201,77.2124474
+464,"Karwan, Hyderabad",17.3800823,78.437475
+465,"Vazhakulam, Ernakulam",9.9436431,76.6401055
+466,"PMG Jn, Thiruvananthapuram",0.0,0.0
+467,"Dwarka Sector 6, Delhi",28.602684,77.0432335
+468,"Viveknagar, Bangalore",12.95434485,77.6226954787814
+469,"Balapur, Hyderabad",17.3090714,78.502772
+470,"Banashankari 2nd Stage, Bangalore",12.9245925,77.5645639
+471,"Azadpur, Delhi",28.7070686,77.1803831
+472,"Moti Nagar, Delhi",28.6578419,77.1424425
+473,"Sakinaka, Mumbai",19.1000901,72.8814784
+474,"Thoppumpady, Ernakulam",9.9348129,76.2600732
+475,"Sanath Nagar, Hyderabad",17.4522594,78.4446705
+476,"Royapettah, Chennai",13.0554718,80.2639706
+477,"Koramangala 5 Block, Bangalore",13.2923988,77.7519261
+478,"Kanjurmarg, Mumbai",19.1296868,72.9283701
+479,"Ernakulam College, Ernakulam",9.9711228,76.2589744
+480,"Urapakkam, Chennai",0.0,0.0
+481,"Coimbatore Ukkadam, Coimbatore",10.99601425,76.9676609
+482,"Sreekaryam, Thiruvananthapuram",8.6102395,76.9056417
+483,"Ernakulam North, Ernakulam",9.989691,76.2857267
+484,"Sultanpur, Delhi",28.4617054,76.8700839
+485,"Banerji Road, Ernakulam",9.9870233,76.2846551
+486,"Balkampet, Hyderabad",17.4469233,78.4504513
+487,"Kavundampalayam, Coimbatore",11.0458503,76.9472395
+488,"Kanchanbagh, Hyderabad",17.32805635,78.500169482216
+489,"Patel Nagar, Delhi",28.6598088,77.156957
+490,"Kilokri, Delhi",28.5781851,77.2643543
+491,"Hoodi, Bangalore",12.9919033,77.7162015
+492,"New Seemapuri, Delhi",28.6868125,77.3253334581768
+493,"Seshadripuram, Bangalore",12.9931876,77.5753419
+494,"Vijaynagar, Delhi",12.9915385,80.2194351
+495,"Bowenpally, Hyderabad",17.4755371,78.4792282
+496,"Ondipudur, Coimbatore",11.0053032,77.0627627
+497,"Triplicane, Chennai",13.0604285,80.2750704
+498,"Richmond Town, Bangalore",12.9626925,77.6041603
+499,"New Rajendra Nagar, Delhi",28.63575565,77.181023911561
+500,"Jahangirpuri, Delhi",28.7259874,77.1626826
+501,"Vivek Vihar, Delhi",28.6691641,77.312266954216
+502,"Malleshpalya, Bangalore",12.9744129,77.6743533
+503,"Pezhakkappilly, Ernakulam",0.0,0.0
+504,"Lingampally, Hyderabad",17.3923945,78.4916581
+505,"Jamia Nagar, Delhi",0.0,0.0
+506,"Begum Bazar, Hyderabad",17.3735321,78.4763226
+507,"Lower Parel, Mumbai",19.0029881,72.8303219
+508,"ECR Road, Chennai",12.9578036,80.2554237
+509,"Nangloi, Delhi",28.6787059,77.0671807
+510,"Chintalmet, Hyderabad",0.0,0.0
+511,"West Of Chord Road, Bangalore",0.0,0.0
+512,"SV Road, Mumbai",19.0785633,72.8335936
+513,"JP Nagar 5 Phase, Bangalore",12.9072515,77.5782713
+514,"Sanjay Nagar, Bangalore",13.0364992,77.577971
+515,"Panampilly Nagar, Ernakulam",9.9659432,76.2952287
+516,"Dharavi, Mumbai",19.044463,72.8586177
+517,"Abbigere, Bangalore",13.0724288,77.5236466
+518,"Manacaud, Thiruvananthapuram",8.4748465,76.9468953
+519,"Poonamalle, Chennai",13.0202336,80.2023478
+520,"Najafgarh, Delhi",28.612304,76.9823908
+521,"Uttarahalli, Bangalore",12.9055682,77.5455438
+522,"Sembakkam, Chennai",12.7023624,80.1298612
+523,"Tarnaka, Hyderabad",17.4285479,78.5379433
+524,"Nandanam, Chennai",13.0286286,80.240256
+525,"Saidapet, Chennai",13.020817,80.2239536
+526,"Choolaimedu, Chennai",13.0623344,80.2254012
+527,"Perungalathur, Chennai",12.9145454,80.0879549
+528,"Gulabi Bagh, Delhi",0.0,0.0
+529,"Jasola, Delhi",28.5422327,77.2943855997645
+530,"JP Nagar 3 Phase, Bangalore",12.9072515,77.5782713
+531,"Uppilipalayam, Coimbatore",11.011709,77.0213881
+532,"Sadashivanagar, Bangalore",13.0077079,77.5795893
+533,"Rohini Sector 24, Delhi",28.7162092,77.1170743
+534,"Muvattupuzha, Ernakulam",9.983069,76.5810995
+535,"Khan Market, Delhi",28.6001354,77.2264906408736
+536,"Abids, Hyderabad",17.3894783,78.477182
+537,"Geeta Colony, Delhi",28.65010115,77.2759222638712
+538,"Madandapuram, Chennai",0.0,0.0
+539,"Dwarka Sector 22, Delhi",28.602684,77.0432335
+540,"Grant Road, Mumbai",18.9644472,72.8135727
+541,"Jeedimetla, Hyderabad",17.5096516,78.4786567
+542,"Tambaram East, Chennai",12.9299028,80.1118231
+543,"Kothaguda, Hyderabad",17.0709386,78.4650421
+544,"Hauz Khas, Delhi",28.544258,77.2067402
+545,"Habsiguda, Hyderabad",17.4154761,78.5426918
+546,"Breach Candy, Mumbai",18.9718962,72.8040315551972
+547,"Vidyanagar, Bangalore",13.1590291,77.6243347
+548,"Begur, Bangalore",12.8633887,77.613011205039
+549,"Dahisar, Mumbai",19.2571784,72.8575361
+550,"Pachalam, Ernakulam",10.0012576,76.2790758
+551,"Perumbavoor, Ernakulam",10.1150733,76.4776093
+552,"Avadi, Chennai",13.1182744,80.1015427
+553,"Coimbatore Central, Coimbatore",11.0018115,76.9628425
+554,"Lokhandwala, Mumbai",19.1431889,72.824081
+555,"Tiruvottiyur, Chennai",13.1563873,80.3005279
+556,"Ullal Upanagara, Bangalore",0.0,0.0
+557,"Perurkada, Thiruvananthapuram",0.0,0.0
+558,"Ashok Vihar Phase 3, Delhi",0.0,0.0
+559,"Walkeshwar, Mumbai",18.9551434,72.8077962
+560,"Saidabad, Hyderabad",17.359533,78.5147979
+561,"Koramangala 6 Block, Bangalore",13.2923988,77.7519261
+562,"New Ashok Nagar, Delhi",28.5928727,77.3077654461206
+563,"Peddar Road, Mumbai",18.9775228,72.8097522
+564,"Aya Nagar, Delhi",28.47649105,77.1329131592514
+565,"JP Nagar, Bangalore",12.9072515,77.5782713
+566,"Sasthamangalam, Thiruvananthapuram",8.512783,76.9719016
+567,"Yakutpura, Hyderabad",17.3586277,78.4858046
+568,"Sampangiramnagar, Bangalore",0.0,0.0
+569,"Kasturi nagar, Bangalore",13.0044979,77.6603231
+570,"Pallavaram, Chennai",12.9654669,80.1451178
+571,"Moti Bagh, Delhi",28.66783725,77.1818098848802
+572,"Mukherjee Nagar, Delhi",28.7125567,77.2144044393311
+573,"Byculla, Mumbai",18.9766219,72.8327936
+574,"Peeragarhi, Delhi",28.67731415,77.0931024359704
+575,"Amberpet, Hyderabad",17.7776835,78.5705066
+576,"JP Nagar 6 Phase, Bangalore",12.9072515,77.5782713
+577,"Sholinganallur, Chennai",12.8935356,80.2320634
+578,"Langford Road, Bangalore",12.9591327,77.6039942
+579,"Cumballa Hill, Mumbai",18.969424,72.8068513
+580,"Colaba, Mumbai",18.915091,72.8259691
+581,"Qutab Institutional Area, Delhi",28.5398146,77.1840572
+582,"Dommasandra, Bangalore",12.8777098,77.7534769
+583,"Malabar Hill, Mumbai",18.9581616,72.8033665
+584,"Koramangala 8 Block, Bangalore",12.94147935,77.6180910859059
+585,"Rohini Sector 22, Delhi",28.7162092,77.1170743
+586,"Lothkunta, Hyderabad",0.0,0.0
+587,"HAL 2nd Stage, Bangalore",12.9686377,77.6382282
+588,"Jayanagar 7 Block, Bangalore",12.92956485,77.5801425
+589,"Vadasserikonam, Thiruvananthapuram",8.729266,76.7557028
+590,"East Marredpally, Hyderabad",17.4469418,78.5107535
+591,"Kelambakkam, Chennai",12.7871437,80.219987
+592,"Chinchpokli, Mumbai",18.9871984,72.8326716
+593,"Delhi Cantt, Delhi",28.5888565,77.132399
+594,"Padmanabhanagar, Bangalore",12.9181602,77.5576735553506
+595,"Sheikh Sarai, Delhi",28.5368964,77.2222387113991
+596,"Washermenpet, Chennai",0.0,0.0
+597,"Konanakunte, Bangalore",12.88601785,77.5791413972707
+598,"Ashok Vihar Phase 1, Delhi",0.0,0.0
+599,"Thirumala, Thiruvananthapuram",8.5019663,76.9918456
+600,"Sarjapura, Bangalore",12.8600866,77.7861352
+601,"JP Nagar 1 Phase, Bangalore",12.9072515,77.5782713
+602,"JB Nagar, Mumbai",18.9557926,72.8360485
+603,"Paruthippara, Thiruvananthapuram",0.0,0.0
+604,"Vikhroli, Mumbai",19.1114795,72.928021
+605,"JP Nagar 8 Phase, Bangalore",12.9072515,77.5782713
+606,"GTB Nagar, Delhi",28.6981558,77.2064225
+607,"Vidyanagar, Hyderabad",17.4019354,78.5095814
+608,"Masab Tank, Hyderabad",17.4029622,78.450754
+609,"Hafeezpet, Hyderabad",17.4834027,78.3613099
+610,"Jeevan Park, Delhi",28.6195633,77.0735919
+611,"Dwarka Sector 5, Delhi",28.59122805,77.0570299680579
+612,"Civil Lines, Delhi",28.6768572,77.2250565
+613,"Anand Niketan, Delhi",28.5785457,77.1638649
+614,"Pappanaickenpalayam, Coimbatore",0.0,0.0
+615,"Koovappady, Ernakulam",10.1628794,76.4872377
+616,"Dwarka, Sector 5, Delhi",28.59122805,77.0570299680579
+617,"Srirampuram, Bangalore",0.0,0.0
+618,"Korattur, Chennai",13.1115392,80.1842767
+619,"Pappanaickenpudur, Coimbatore",0.0,0.0
+620,"Gandhi Nagar, Delhi",28.65572225,77.268813153414
+621,"Vignan Nagar, Bangalore",0.0,0.0
+622,"Ganganagar, Bangalore",0.0,0.0
+623,"Elamakkara, Ernakulam",10.0170684,76.2920857
+624,"Boduppal, Hyderabad",0.0,0.0
+625,"Tilak Nagar, Mumbai",19.0692377,72.8978464
+626,"Khetwadi, Mumbai",18.9606077,72.8219451
+627,"Kengeri, Bangalore",12.9199402,77.4833485
+628,"Sion East, Mumbai",19.0428153,72.8653563
+629,"Rohini Sector 6, Delhi",28.7162092,77.1170743
+630,"Kazhakuttam, Thiruvananthapuram",8.5660255,76.8737867
+631,"Goregaon, Mumbai",19.1647526,72.8500176
+632,"Peroor, Thiruvananthapuram",0.0,0.0
+633,"New Thippasandra, Bangalore",12.9736956,77.6536931
+634,"Jalahalli, Bangalore",13.0464531,77.5483803
+635,"King Koti, Hyderabad",17.3936821,78.4823947
+636,"Kallambalam, Thiruvananthapuram",8.7647112,76.7921602
+637,"Dwarka Sector 13, Delhi",28.597025,77.0335556
+638,"Residency Road, Bangalore",13.0530002,77.6204833
+639,"Radhakrishnan Salai, Chennai",13.0454901,80.2637183
+640,"Hulimavu, Bangalore",12.8773486,77.6028031
+641,"Dasarahalli, Bangalore",13.0994854,77.8361008
+642,"Vileparle, Mumbai",0.0,0.0
+643,"Delhi, Delhi",28.6517178,77.2219388
+644,"Kachiguda, Hyderabad",17.39004015,78.4946205078499
+645,"Venkitapuram, Coimbatore",11.0254007,76.9353552
+646,"Kuniamuthur, Coimbatore",10.9664454,76.9565931
+647,"TV Chalai, Thiruvananthapuram",0.0,0.0
+648,"Serilingampally, Hyderabad",17.46565735,78.3406723956511
+649,"RMV 2nd Stage, Bangalore",13.0299868,77.574051
+650,"Champapet, Hyderabad",17.3445706,78.5169717
+651,"Surya Niketan, Delhi",28.65534345,77.3092464593876
+652,"Kovilpalayam, Coimbatore",11.1376235,77.0363987
+653,"Nampally, Hyderabad",17.3918524,78.4660052
+654,"Siddapura, Bangalore",12.9542596,77.7309743
+655,"Neredmet, Hyderabad",17.470446,78.5360054
+656,"Vellakinar, Coimbatore",11.0797839,76.9474805
+657,"Egmore, Chennai",13.0728321,80.2576906
+658,"Katwaria Sarai, Delhi",28.5418938,77.1862772
+659,"Navalur, Chennai",12.8446181,80.2265664
+660,"Mehrauli, Delhi",28.5218262,77.1783232
+661,"HBR Layout, Bangalore",13.0358698,77.6323597
+662,"Subhash Nagar, Delhi",28.6404628,77.1052347
+663,"Mallepally, Hyderabad",17.3920728,78.4546129
+664,"Eroor South, Ernakulam",10.0029392,76.3000229
+665,"Lajpat Nagar III, Delhi",28.5678755,77.2404914
+666,"Kodungaiyur, Chennai",13.1327533,80.2444773
+667,"Kuppakonanpudur, Coimbatore",0.0,0.0
+668,"Paradise, Hyderabad",17.41221795,78.4655128738196
+669,"Rohini Sector 4, Delhi",28.7162092,77.1170743
+670,"Koramangala 4 Block, Bangalore",13.2923988,77.7519261
+671,"Dwarka Sector 3, Delhi",28.602684,77.0432335
+672,"Durga Puri, Delhi",0.0,0.0
+673,"Kalamassery, Ernakulam",10.0600025,76.3213096
+674,"Gulmohar Park, Delhi",28.5571011,77.2130055
+675,"Adugodi, Bangalore",12.9428472,77.6104155
+676,"Moti Nagar, Hyderabad",17.4508069,78.422242
+677,"Nallagandla, Hyderabad",17.4774828,78.3060359
+678,"Gowrivakkam, Chennai",0.0,0.0
+679,"Periyar Nagar, Chennai",13.1151671,80.223666
+680,"Austin Town, Bangalore",12.9612736,77.6152935
+681,"Afzalgunj, Hyderabad",17.3734999,78.4763376
+682,"Cotton Hill, Thiruvananthapuram",8.501973,76.9615826
+683,"Goldwins, Coimbatore",11.045077,77.0473344
+684,"Kuravankonam, Thiruvananthapuram",8.523543,76.95307
+685,"Rohini Sector 3, Delhi",28.7162092,77.1170743
+686,"Lado Sarai, Delhi",28.5254347,77.1920657
+687,"Koramangala 2 Block, Bangalore",13.2923988,77.7519261
+688,"Madangir, Delhi",28.52482345,77.2322777368074
+689,"Marine Drive, Mumbai",18.9448523,72.8225462
+690,"Marine Drive, Ernakulam",9.9760741,76.2776451
+691,"Angamaly, Ernakulam",10.1910284,76.3874109
+692,"Neelankarai, Chennai",12.9454955,80.2574692
+693,"Churchgate, Mumbai",18.9339273,72.8273494
+694,"Kalapatti, Coimbatore",11.07856235,77.0354504266076
+695,"Nand Nagri, Delhi",28.6944581,77.3161438158589
+696,"Kandivali, Mumbai",19.2043739,72.851978
+697,"Madanpura, Mumbai",0.0,0.0
+698,"Hegde Nagar, Bangalore",12.97695915,77.5123160731423
+699,"Domalguda, Hyderabad",17.4078455,78.4850003
+700,"Mumbai Central, Mumbai",18.970174,72.8192133
+701,"Vasanthnagar, Bangalore",12.992444,77.5964945
+702,"Kapashera, Delhi",28.527295,77.0823049
+703,"August Kranti Marg, Delhi",28.467868,77.0729926
+704,"Krishna Nagar, Hyderabad",17.3331199,78.6059714
+705,"Lal baug, Mumbai",18.9935288,72.8424069
+706,"Perumathura, Thiruvananthapuram",8.6360796,76.7857894423931
+707,"Molarband, Delhi",0.0,0.0
+708,"Piravom, Ernakulam",9.86685,76.50657
+709,"Neeti Bagh, Delhi",28.5592511,77.2161665
+710,"Kishanbagh, Hyderabad",17.36083265,78.4427483144663
+711,"Shantinagar, Bangalore",12.9564731,77.6004516432132
+712,"Poojapura, Thiruvananthapuram",8.49171095,76.972893570049
+713,"Rathinapuri, Coimbatore",11.0262931,76.9622382
+714,"Model Town 1, Delhi",28.7027391,77.1940059
+715,"Koothattukulam, Ernakulam",9.8621862,76.5980931
+716,"Anand Lok, Delhi",28.5572924,77.2191223
+717,"Pappanaickenpalayam West, Coimbatore",0.0,0.0
+718,"Subzi Mandi, Delhi",28.63551235,77.3214822317024
+719,"Sion, Mumbai",19.0465213,72.8632834
+720,"Nagole, Hyderabad",17.3775306,78.5601231
+721,"TVM Pettah, Thiruvananthapuram",0.0,0.0
+722,"Changampuzha Nagar, Ernakulam",10.01643855,76.3020112702002
+723,"Puzhal, Chennai",13.1636492,80.2038067
+724,"Vanchiyur, Thiruvananthapuram",0.0,0.0
+725,"Sukh Vihar, Delhi",28.6739246,77.0851622
+726,"Kovalam, Thiruvananthapuram",8.4004698,76.9788156
+727,"Swasthya Vihar, Delhi",28.64033065,77.2889050157135
+728,"Tardeo, Mumbai",18.9672753,72.8221514
+729,"Vishnu Garden, Delhi",28.6524333,77.1000592
+730,"Jayanagar 1 Block, Bangalore",12.92956485,77.5801425
+731,"Sion Koliwada, Mumbai",19.0407302,72.8642303
+732,"Marol, Mumbai",19.1172198,72.882342
+733,"Kalkere, Bangalore",12.8328089,77.5906929
+734,"Sindhi Colony, Hyderabad",17.4412194,78.481048
+735,"Silampur, Delhi",0.0,0.0
+736,"Varthur, Bangalore",12.9406152,77.7469937
+737,"Model Town 2, Delhi",28.7027391,77.1940059
+738,"Surajmal Vihar, Delhi",28.66080705,77.3075440443935
+739,"Chandni Chowk, Delhi",28.6562654,77.2299093
+740,"Veerakeralam, Coimbatore",0.0,0.0
+741,"T Dasarahalli, Bangalore",13.04514135,77.514789427294
+742,"Kaggalipura, Bangalore",12.8016986,77.5082445
+743,"Thonnakkal, Thiruvananthapuram",0.0,0.0
+744,"Manjapra, Ernakulam",10.2081277,76.452688
+745,"Yellareddyguda, Hyderabad",17.4333135,78.4415476
+746,"Kovilambakkam, Chennai",0.0,0.0
+747,"Broadway, Chennai",13.0962367,80.2864133
+748,"Podanur, Coimbatore",10.9585609,76.988307
+749,"Kompally, Hyderabad",17.5447029,78.491842
+750,"Kottivakkam, Chennai",12.9705053,80.2615033
+751,"Mansarover Garden, Delhi",0.0,0.0
+752,"Mandapeshwar, Mumbai",19.2509732,72.8525201
+753,"Rohini Sector 15, Delhi",28.7162092,77.1170743
+754,"Vaduthala, Ernakulam",10.0123934,76.2761283
+755,"Hebbal Kempapura, Bangalore",0.0,0.0
+756,"Sithalapakkam, Chennai",12.8917047,80.1851133
+757,"MKB Nagar, Chennai",13.1225331,80.2631374
+758,"MG Road, Hyderabad",17.4419007,78.4876142
+759,"Darya Ganj, Delhi",0.0,0.0
+760,"Venjaramoodu, Thiruvananthapuram",8.6780627,76.9096639
+761,"Kotturpuram, Chennai",13.0193703,80.2435512
+762,"Ramapuram, Chennai",13.5172936,80.0864542
+763,"Karmanghat, Hyderabad",17.3410061,78.5329747
+764,"Moula Ali, Hyderabad",17.4668161,78.5592161
+765,"Netaji Nagar, Delhi",28.5735343,77.1863593
+766,"Chandra Layout, Bangalore",12.965293,77.5181551
+767,"Akshaya nagar, Bangalore",13.0195427,77.6831272
+768,"Nirman Vihar, Delhi",28.6364928,77.2867943
+769,"Vasant Enclave, Delhi",28.57310005,77.1600166297156
+770,"St Thomas Mount, Chennai",12.9953587,80.1997148
+771,"Royapuram, Chennai",13.1146195,80.2940279
+772,"Abhiramapuram, Chennai",13.0310236,80.2582995
+773,"Inder Puri, Delhi",0.0,0.0
+774,"Edayarpalayam, Coimbatore",11.0347994,76.9145503
+775,"Deoli, Delhi",0.0,0.0
+776,"Mulanthuruthy, Ernakulam",9.9008567,76.3888568
+777,"Sukhdev Vihar, Delhi",28.5564038,77.274954863092
+778,e,31.0,112.0
+779,"Kothamangalam, Ernakulam",10.0640341,76.6218187
+780,"Harlur, Bangalore",12.8920326,77.6550376733177
+781,"Bolarum, Hyderabad",17.529823,78.5155062
+782,"Richards Town, Bangalore",13.004216,77.6158048
+783,"Narela, Delhi",28.8426096,77.0918354
+784,"Nehru Place, Delhi",28.54925735,77.2529519950882
+785,"Ramanthapur, Hyderabad",17.3968585,78.5367026
+786,"Bali Nagar, Delhi",28.6541384,77.128178
+787,"Palavakkam, Chennai",12.95999,80.2560268
+788,"Balanagar, Hyderabad",17.4688324,78.4480584
+789,"Hyderguda, Hyderabad",17.4012791,78.4804894
+790,"Cherannagar, Coimbatore",0.0,0.0
+791,"Rohini Sector 11, Delhi",28.7162092,77.1170743
+792,"Dwarka Sector 4, Delhi",28.59122805,77.0570299680579
+793,"Palluruthy, Ernakulam",0.0,0.0
+794,"Vizhinjam, Thiruvananthapuram",8.3804417,76.9888163
+795,"Santacruz, Mumbai",19.0815223,72.8417565
+796,"Ganesh Nagar, Delhi",28.63476925,77.0877028347645
+797,"Vengal Rao Nagar, Hyderabad",17.442681,78.4354451
+798,"Deonar, Mumbai",19.0475502,72.9051895
+799,"Edapally North, Ernakulam",10.0250304,76.3073744
+800,"Red Hills, Hyderabad",17.3982921,78.4642498
+801,"IDA Jeedimetla, Hyderabad",0.0,0.0
+802,"Mettupalayam, Coimbatore",11.3059363,76.9356545
+803,"Hayathnagar, Hyderabad",17.3281147,78.6045399
+804,"Kakkanad West, Ernakulam",10.01657,76.34275
+805,"Khajaguda, Hyderabad",17.4172202,78.3656108
+806,"Rohini Sector 5, Delhi",28.7162092,77.1170743
+807,"Saraswati Vihar, Delhi",28.4772236,77.0832762
+808,"Kingsway Camp, Delhi",28.6958299,77.2041732
+809,"Ramamangalam, Ernakulam",9.93336,76.50003
+810,"Indirapuram, Delhi",0.0,0.0
+811,"Parassala, Thiruvananthapuram",8.3428993,77.1547766
+812,"Connaught Place, Delhi",28.6313827,77.2197924
+813,"Gottigerre, Bangalore",0.0,0.0
+814,"Shivrampally, Hyderabad",17.3272046,78.4278431
+815,"Vyasarpadi, Chennai",13.1169726,80.2571242
+816,"Kovaipudur, Coimbatore",10.9464687,76.9314548
+817,"Vallakkadavoo, Thiruvananthapuram",0.0,0.0
+818,"Kattupakkam, Chennai",13.0410957,80.127076
+819,"Nellimoodu, Thiruvananthapuram",0.0,0.0
+820,"Pondy Bazaar, Chennai",0.0,0.0
+821,"Prashant Vihar, Delhi",28.7144481,77.1389988
+822,"Chullickal, Ernakulam",0.0,0.0
+823,"Murugeshpalya, Bangalore",12.9589475,77.65559301498
+824,"Khanpur, Delhi",28.5127982,77.2323949
+825,"Madiwala, Bangalore",12.9212269,77.6179508
+826,"Dwarka Sector 23, Delhi",28.602684,77.0432335
+827,"Badarpur, Delhi",28.5036378,77.3019758191726
+828,"Peyad, Thiruvananthapuram",8.5139688,77.0195232
+829,"Gandhi Nagar, Chennai",13.0582742,80.2078872
+830,"Uday Park, Delhi",28.5603016,77.219519
+831,"Bandlaguda, Hyderabad",17.3714879,78.5727265
+832,"Karukappilli, Ernakulam",0.0,0.0
+833,"Rana Pratap Bagh, Delhi",28.6867059,77.1907813
+834,"Kochi M.G.Road, Ernakulam",9.964145,76.2874158
+835,"Gopalapuram, Chennai",13.0497324,80.2582028
+836,"Puthenvelikkara, Ernakulam",10.1877655,76.2457603
+837,"Sowcarpet, Chennai",13.0884967,80.2783092
+838,"Chitlapakkam, Chennai",12.9330984,80.1413832
+839,"Malumichampatti, Coimbatore",10.9043819,76.9988314
+840,"Rohini Sector 8, Delhi",28.7162092,77.1170743
+841,"Rohini Sector 2, Delhi",28.7162092,77.1170743
+842,"Ram Nagar, Hyderabad",17.4114232,78.5076081
+843,"Dwarka Sector 10, Delhi",28.5810731,77.0575146
+844,"Agaram, Chennai",13.1158603,80.2300407
+845,"Poovachal, Thiruvananthapuram",0.0,0.0
+846,"Shanti Niketan, Delhi",28.57315085,77.1644656414649
+847,"Pothencode, Thiruvananthapuram",8.6184233,76.8976931
+848,"Dickenson Road, Bangalore",12.9754283,77.6143254
+849,"RTC X Road, Hyderabad",17.4069869,78.4965166
+850,"Film Nagar, Hyderabad",17.4140574,78.4105031
+851,"Lodhi Colony, Delhi",28.58455445,77.2236987562227
+852,"SG Palya (Kormangla), Bangalore",0.0,0.0
+853,"Palkulangara, Thiruvananthapuram",8.4870836,76.9336558
+854,"Mahalingapuram, Chennai",13.0567826,80.2364037
+855,"Matunga West, Mumbai",19.0317259,72.8433917
+856,"Nettoor, Ernakulam",9.9186756,76.3139991
+857,"Rani Khera, Delhi",28.7061763,77.0234192
+858,"Beeramguda, Hyderabad",17.5091218,78.3004614
+859,"Ramachandrapuram, Hyderabad",17.5086345,78.301868507913
+860,"Neyyattinkara Town, Thiruvananthapuram",0.0,0.0
+861,"Gorai, Mumbai",19.241013,72.7821985
+862,"Jayanagar 3 Block, Bangalore",12.92956485,77.5801425
+863,"Shakti Nagar, Delhi",28.67979,77.1949142
+864,"Sangam Vihar, Delhi",28.49770245,77.2391741045083
+865,"Shakurpur, Delhi",28.6857417,77.1496333
+866,"Chaitanyapuri, Hyderabad",17.373017,78.5362644
+867,"TVM Fort, Thiruvananthapuram",8.4861742,76.9505045
+868,"JP Nagar 4 Phase, Bangalore",12.9072515,77.5782713
+869,"Nayandahalli, Bangalore",12.943655,77.5268791
+870,"Valiathura, Thiruvananthapuram",0.0,0.0
+871,"Kowdiar, Thiruvananthapuram",8.5224406,76.9602939
+872,"Cunningham Road, Bangalore",12.9868908,77.59503
+873,"Hennur, Bangalore",13.0258087,77.6305067
+874,"Peenya, Bangalore",13.0329419,77.5273253
+875,"Pattimattam, Ernakulam",0.0,0.0
+876,"HAL, Bangalore",12.9875687,77.6603883201641
+877,"Madhavaram, Chennai",13.1429313,80.2325166
+878,"Ramakrishna Puram, Hyderabad",17.368634,78.5491178
+879,"Vikas Nagar, Delhi",28.6440092,77.0544704285337
+880,"Chandrayangutta, Hyderabad",17.323217,78.4787596983045
+881,"Ernakulam, Ernakulam",9.9711228,76.2589744
+882,"Aroor, Ernakulam",0.0,0.0
+883,"Rohini West, Delhi",28.7149359,77.115361
+884,"Warasiguda, Hyderabad",17.4182415,78.5113365
+885,"Vishwas Nagar, Delhi",28.66447005,77.2917413918215
+886,"Bhandup, Mumbai",19.1438684,72.9384327
+887,"Chickpet, Bangalore",12.9680027,77.578642
+888,"Madambakkam, Chennai",12.9057186,80.1543859
+889,"Kaudiar, Thiruvananthapuram",0.0,0.0
+890,"Khar East, Mumbai",19.0724575,72.8337068
+891,"Tavarekere, Bangalore",13.1334356,77.9290602
+892,"Kurla, Mumbai",19.0629954,72.8847136
+893,"Mahavir Enclave, Delhi",28.5981655,77.0776818997674
+894,"Jayanagar 2 Block, Bangalore",12.92956485,77.5801425
+895,"Nacharam, Hyderabad",17.4284936,78.5528098
+896,"Cheranalloor, Ernakulam",10.0563528,76.2911199
+897,"Ayanambakkam, Chennai",13.0748878,80.1549921
+898,"Dindarpur, Delhi",28.5943551,76.9923747
+899,"Iyyappanthangal, Chennai",0.0,0.0
+900,"Sarvapriya Vihar, Delhi",28.5422362,77.2073492
+901,"Pattabiram, Chennai",13.1228939,80.0611379234221
+902,"Kudlu, Bangalore",12.8889126,77.6555716
+903,"Kadubeesanahalli, Bangalore",12.9394504,77.695305
+904,"Nemom, Thiruvananthapuram",0.0,0.0
+905,"Alipur, Delhi",28.7959955,77.1360706
+906,"Kanjoor, Ernakulam",10.1453759,76.4255869
+907,"Nedumbassery, Ernakulam",10.1609942,76.3899193
+908,"Safilguda, Hyderabad",17.4665153,78.5398739
+909,"Hastsal, Delhi",28.6295127,77.0590986
+910,"Tv Thampanoor, Thiruvananthapuram",8.50452965,76.9478327988757
+911,"Mahipalpur, Delhi",28.5444849,77.1256912
+912,"Outer Ring Road, Bangalore",12.9263692,77.5483569
+913,"Bhogal, Delhi",28.5825888,77.2489241565988
+914,"Nedumangad, Thiruvananthapuram",8.6053371,77.0028331
+915,"Lingarajapuram, Bangalore",13.0117678,77.6278288
+916,"Burari, Delhi",28.7538314,77.2015670053432
+917,"Seeranaickenpalayam, Coimbatore",0.0,0.0
+918,"JP Nagar 9 Phase, Bangalore",12.9072515,77.5782713
+919,"Bachupally, Hyderabad",0.0,0.0
+920,"Jafferkhanpet, Chennai",13.0299401,80.2056195
+921,"Nandambakkam, Chennai",13.0166484,80.1911885
+922,"Rohini Sector 20, Delhi",28.7162092,77.1170743
+923,"Sriniwaspuri, Delhi",28.5652204,77.2547041
+924,"Palghar, Mumbai",0.0,0.0
+925,"Kapra, Hyderabad",17.4846356,78.5610095
+926,"Sagar Road, Hyderabad",17.3404985,78.522085
+927,"Gamdevi, Mumbai",18.9584855,72.8122522
+928,"Poothotta, Ernakulam",9.8448325,76.3869351
+929,"Koramangala 7 Block, Bangalore",12.9364846,77.6134783
+930,"KH Road, Bangalore",12.9538503,77.5914331
+931,"Delhi Cantonment, Delhi",28.5888565,77.132399
+932,"Hasthinapuram, Chennai",12.9372824,80.1519854
+933,"Periyanaickenpalayam, Coimbatore",11.1524702,76.9444695
+934,"Manchavilakom, Thiruvananthapuram",0.0,0.0
+935,"Yemalur, Bangalore",12.9463287,77.6815209
+936,"Meerpet, Hyderabad",17.45407295,78.5715073708675
+937,"Sewri, Mumbai",18.9987796,72.8544218
+938,"Padi, Chennai",13.1035851,80.1920425
+939,"Ayyappankavu, Ernakulam",9.9959574,76.2805364
+940,"Kalu Sarai, Delhi",28.5415421,77.2037409
+941,"Pratap Nagar, Delhi",28.6666872,77.1988866
+942,"Shadipur, Delhi",28.6526021,77.1536389
+943,"Hongasandra, Bangalore",12.8975365,77.628075265942
+944,"Dwarka Sector 12, Delhi",28.5922515,77.0407464
+945,"BHEL, Hyderabad",17.5051308,78.4895401
+946,"Hosur Road, Bangalore",12.9026427,77.6315171
+947,"Choolai, Chennai",13.0906283,80.2621417
